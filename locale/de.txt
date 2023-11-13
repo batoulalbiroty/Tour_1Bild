@@ -1,0 +1,21 @@
+#: locale=de
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_D35347E6_C7B9_3A10_41E3_DB93512125C6.text = Hii
+
+## Media
+
+### Image
+imlevel_DF87CC71_C7B9_EEF0_41E1_2E6F07125F45.url = media/panorama_A9E56F83_B8AA_0D74_41E6_C5127E2C0935_HS_wg8z5tfs_de.png
+
+### Titel
+panorama_A9E56F83_B8AA_0D74_41E6_C5127E2C0935.label = 0001
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 3
